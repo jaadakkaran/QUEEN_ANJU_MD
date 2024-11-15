@@ -1,13 +1,13 @@
 {
-  "name": "QUEEN ANJU MD (2.5)",
-  "description": "QUEEN ANJU MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+  "name": "ɖʀ ʐɛʀ™",
+  "description": "ɖʀ ʐɛʀ™ has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
   "logo": "https://telegra.ph/file/adc46970456c26cad0c15.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "multi device", "prabath-md"],
   "success_url": "/",
 
   "env": {
       "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "ANJU-MD=XF0SQLpT#Rv7JQA63uu_ct5bVWcwv3Kl9nQaLyErfKJ827RYFTyk",
       "required": true
     }   
 },
